@@ -1,11 +1,11 @@
 {
-  "name": "json-server",
+  "name": "db",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
     "start": "json-server --watch db.json --port 3000"
   },
   "dependencies": {
-    "json-server": "^1.0.0-beta.3"
+    "json-server": "^0.17.0"
   }
 }
