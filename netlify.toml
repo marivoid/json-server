@@ -1,6 +1,6 @@
 [build]
   command = "node server.js"
-  publish = "."
+  publish = ""
 
 [[redirects]]
   from = "/*"
