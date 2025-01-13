@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "username": "bestUser",
+      "email": "imthebest@awesome.com",
+      "password": "awesome123",
+      "id": "1"
+    },
+    {
+      "username": "marina0914",
+      "email": "marina0914@gmail.com",
+      "password": "Lordofhosts",
+      "id": "2"
+    },
+    {
+      "id": "89e9",
+      "username": "aragorn369",
+      "email": "aragorn369@gmail.com",
+      "password": "aragonTheKing"
+    },
+    {
+      "id": "1ee2",
+      "username": "boromir14",
+      "email": "boromir14@gmail.com",
+      "password": "boromir14"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "1",
+      "title": "RIP Aragorn's toes",
+      "content": "While filming the scene where Aragorn, Legolas and Gimli find the pile of slain orcs, Aragorn kicks a helmet of one of the orcs in dispair believing the hobbits Pippin and Merry were amongst the dead. The actor, after kicking the helmet, lets out a scream. This isn't to show Aragorn's sorrow, but rather the actor had broken two of his toes while repeatedly kicking the helmet in order to get the scene right. Pray for Viggo Mortensen's toes lmao."
+    },
+    {
+      "id": "2",
+      "title": "The perfect timing",
+      "content": "A scene in Two Towers where Eowyn is surveying the land of Rohan and then, due to strong winds, the Rohan flag is torn away signifiying both her's and Rohan lowly state forever creating an iconic and awesome scene from the movie. The flag being torn away was completely by accident yet the director thought it was perfect and kept it in. Gotta love small details like these."
+    },
+    {
+      "title": "Sean Bean's fear",
+      "content": "Sean Bean (actor for Boromir) had a fear which prevented him from riding the helicopter to set every day. Instead, he opted for climbing the mountains of New Zealand in order to reach the set which was on the top of the mountain. At least by the time he got there, he looked exhausted which was perfect for this role as his character travelled a lot. It gave a more realistic vibe ig lol.",
+      "id": "3"
+    },
+    {
+      "id": "677b",
+      "title": "Aragorn Deflects a Real Knife",
+      "content": "In a fighting scene between Aragorn and the leader of the Uruk-hai, the actor of the orc was supposed to throw a rubber knife at actor Viggo Mortensen, but mistakenly threw a real sharp knife which Viggo instinctively deflected. Viggo also used a real steel sword in that scene. Aragorn in real life!?"
+    }
+  ]
+}
